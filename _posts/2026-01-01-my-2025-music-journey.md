@@ -9,6 +9,10 @@ date: 2026-01-01
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=THRwymOuUeftEagX&amp;list=PL1EZWN1AU8d1Dtfi5zTH3oxr8TzqfOElo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+| | |
+|---|---|
+| <iframe width="280" height="158" src="https://www.youtube.com/embed/t0etgCzvohc?si=5FDDEzfTFMIfnYl_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> | <iframe width="280" height="158" src="https://www.youtube.com/embed/DMHHXiYZce4?si=gXgLiDTk3HE6AOY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
+
 1. 김광석 - 흐린 가을 하늘에 편지를 써 (Writing a Letter on a Cloudy Autumn Sky) (Official Audio) (2022 Remastered) https://www.youtube.com/watch?v=t0etgCzvohc&list=PL1EZWN1AU8d1Dtfi5zTH3oxr8TzqfOElo&index=12&pp=gAQBiAQB8AUBsAgC
 1. 바람이 불어오는 곳 - 경서(Kyoung Seo)ㅣ원곡 : 김광석(제이레빗 버전) https://www.youtube.com/watch?v=DMHHXiYZce4&list=PL1EZWN1AU8d1Dtfi5zTH3oxr8TzqfOElo&index=7&pp=gAQBiAQB8AUBsAgC
 
